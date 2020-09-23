@@ -6,7 +6,8 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("teste");
+            Console.ReadKey();
         }
     }
 }
